@@ -15,3 +15,23 @@ let b <- "final" Variable
 
 Bsp.:
 a + b = c <- Befehle werden in einer Zeile geschrieben
+
+
+____________________________________________________
+1.5
+Schleifen
+
+1.5.1
+for (let i = 0; i < 10; i++){}
+
+1.5.1
+while("Bedingung"){}
+
+____________________________________________________
+1.6
+Abfragen
+
+1.6.1
+if - Anweisung
+if (){}
+else {}
