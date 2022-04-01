@@ -1,0 +1,17 @@
+II NodeJS und JavaScript
+
+____________________________________________________
+1.0
+
+Front-End: JavaScript, HTML, CSS
+Back-End: JavaScript, PHP, C#, Java, C++, Python
+
+____________________________________________________
+1.1 JavaScript Variablen
+
+
+var a <- normale Variable
+let b <- "final" Variable
+
+Bsp.:
+a + b = c <- Befehle werden in einer Zeile geschrieben
