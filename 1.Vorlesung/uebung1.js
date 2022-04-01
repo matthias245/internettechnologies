@@ -13,6 +13,7 @@ function between(min, max){
 
 while(erraten == 0){
     inputNumber = prompt(j);
+    
     if(inputNumber == numberToGuess){
         console.log("Sie haben die Zahl erraten. Anzahl Schritte: " + amountOfSteps);
         erraten = 1;
